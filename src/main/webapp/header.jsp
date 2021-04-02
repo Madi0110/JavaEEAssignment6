@@ -10,6 +10,9 @@
     <body>
         <header>
 
+            <%-- This is header jsp page --%>
+
+
 
             <ul class="header-nav">
                 <li><a href="<%= request.getContextPath() %>/">Home</a></li>
