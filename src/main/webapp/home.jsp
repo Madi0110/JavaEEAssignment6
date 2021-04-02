@@ -1,4 +1,4 @@
-<%@ include file="templates/header.jsp" %>
+<%@ include file="header.jsp" %>
 <%@ page import="java.util.ArrayList" %>
 <%@ page import="com.company.entities.NewsEntity" %>
 <div class="wrapper">
@@ -17,4 +17,4 @@
     <% } %>
 
 </div>
-<%@ include file="templates/footer.jsp" %>
+<%@ include file="footer.jsp" %>

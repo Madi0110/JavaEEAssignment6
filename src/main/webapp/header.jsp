@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <!-- CSS -->
-        <style><%@ include file="../main.css" %></style>
+        <style><%@ include file="main.css" %></style>
 
     </head>
 
